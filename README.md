@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.macautolock.com/assets/img/logo.png" alt="Mac AutoLock" width="96">
+  <img src="./logo.png" alt="Mac AutoLock" width="96">
 </p>
 
 <h1 align="center">Mac AutoLock</h1>
@@ -78,3 +78,4 @@ se desbloquea. Sin tocar una tecla.
   confianza
 - [Lite en el Mac App Store](https://apps.apple.com/app/id6812660335)
 - Soporte: [support@it-systems.es](mailto:support@it-systems.es)
+
