@@ -29,6 +29,8 @@
 
 Mac AutoLock sorveglia il segnale Bluetooth del tuo telefono. Quando ti allontani dalla scrivania il segnale cala e la sessione si blocca; quando torni, si sblocca per te. Il telefono è la chiave — nient'altro da portare, niente da ricordare.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funzionalità
 
 - **Blocco e sblocco reali** — sblocco automatico della sessione con Portachiavi (Pro).

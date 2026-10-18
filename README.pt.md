@@ -29,6 +29,8 @@
 
 O Mac AutoLock vigia o sinal Bluetooth do seu telemóvel. Ao afastar-se da secretária, o sinal enfraquece e a sessão bloqueia; ao voltar, desbloqueia por si. O telemóvel é a chave — mais nada para levar, nada para memorizar.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funcionalidades
 
 - **Bloqueio e desbloqueio reais** — desbloqueio automático da sessão com o Keychain (Pro).

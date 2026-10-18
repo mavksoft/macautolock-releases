@@ -29,6 +29,8 @@
 
 Mac AutoLock vigila la señal Bluetooth de tu teléfono. Cuando te alejas del escritorio la señal decae y tu sesión se bloquea sola; cuando vuelves, se desbloquea por ti. Tu móvil es la llave — nada más que llevar, nada que recordar.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funciones
 
 - **Bloqueo y desbloqueo reales** — desbloqueo automático de la sesión con Llaveros (edición Pro).

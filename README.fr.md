@@ -29,6 +29,8 @@
 
 Mac AutoLock surveille le signal Bluetooth de votre téléphone. Éloignez-vous du bureau et le signal faiblit → la session se verrouille. Revenez → il déverrouille pour vous. Votre téléphone est la clé — rien à transporter, rien à retenir.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Fonctionnalités
 
 - **Verrouillage et déverrouillage réels** — déverrouillage automatique avec le Trousseau (Pro).

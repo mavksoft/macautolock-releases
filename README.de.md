@@ -29,6 +29,8 @@
 
 Mac AutoLock überwacht das Bluetooth-Signal deines Telefons. Entfernst du dich vom Schreibtisch, fällt das Signal ab und die Sitzung sperrt sich; kehrst du zurück, wird entsperrt. Dein Handy ist der Schlüssel — nichts mitzunehmen, nichts zu merken.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funktionen
 
 - **Echte Sitzungssperre & Entsperrung** — automatisches Entsperren mit Schlüsselbund (Pro).

@@ -29,6 +29,8 @@
 
 Mac AutoLock watches the Bluetooth signal of your phone. Step away from your desk and the signal fades → your session locks. Come back → it unlocks for you. Your phone is the key; nothing else to carry, nothing to remember.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Features
 
 - **Real session lock & unlock** — automatic unlock with Keychain (Pro edition).
