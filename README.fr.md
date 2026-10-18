@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Mac AutoLock" width="96">
+  <img src="https://raw.githubusercontent.com/mavksoft/macautolock-releases/main/logo.png" alt="Mac AutoLock" width="96">
 </p>
 
 <h1 align="center">Mac AutoLock</h1>
@@ -23,9 +23,9 @@
 
 | | |
 |---|---|
-| 📥 **Pro (DMG)** | [Télécharger le dernier DMG](https://github.com/mavksoft/macautolock-releases/releases/latest) — contrôle total, sans les limites de l'App Store |
-| 🍎 **Lite** | [Mac AutoLock Lite sur le Mac App Store](https://apps.apple.com/app/id6812660335) |
-| 🌍 **Site officiel** | [www.macautolock.com](https://www.macautolock.com) |
+| <img src='https://raw.githubusercontent.com/mavksoft/macautolock-releases/main/icons/apple.svg' width='15' style='vertical-align:-2px' alt='apple'> **Pro (DMG)** | [Télécharger le dernier DMG](https://github.com/mavksoft/macautolock-releases/releases/latest) — contrôle total, sans les limites de l'App Store |
+| <img src='https://raw.githubusercontent.com/mavksoft/macautolock-releases/main/icons/appstore.svg' width='15' style='vertical-align:-2px' alt='appstore'> **Lite** | [Mac AutoLock Lite sur le Mac App Store](https://apps.apple.com/app/id6812660335) |
+| <img src='https://raw.githubusercontent.com/mavksoft/macautolock-releases/main/logo.png' width='15' style='vertical-align:-2px'> **Site officiel** | [www.macautolock.com](https://www.macautolock.com) |
 
 ## Qu'est-ce que c'est
 
